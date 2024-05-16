@@ -1,6 +1,4 @@
-import foo1 from funcs
-import foo2 from funcs
-
+from funcs import foo1, foo2
 
 foo1
 foo2
